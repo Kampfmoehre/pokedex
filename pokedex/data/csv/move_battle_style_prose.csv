@@ -1,7 +1,10 @@
 move_battle_style_id,local_language_id,name
 1,5,Attaque
+1,6,Angriff
 1,9,Attack
 2,5,Défense
+2,6,Verteidigung
 2,9,Defense
 3,5,Assistance
+3,6,Untersützung
 3,9,Support

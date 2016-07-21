@@ -1,15 +1,29 @@
 move_meta_category_id,local_language_id,description
+0,6,Verursacht Schaden
 0,9,Inflicts damage
+1,6,Kein Schaden; Verursacht Statusänderungen
 1,9,No damage; inflicts status ailment
+2,6,Kein Schaden; Senkt die Statuswerte des Ziels oder erhöht die Statuswerte des Anwenders
 2,9,No damage; lowers target's stats or raises user's stats
+3,6,Kein Schaden; Heilt den Anwender
 3,9,No damage; heals the user
+4,6,Verursacht Schaden; Verursacht Statusänderungen
 4,9,Inflicts damage; inflicts status ailment
+5,6,Kein Schaden; Verursacht Statusänderungen; Erhöht die Statuswerte des Ziels
 5,9,No damage; inflicts status ailment; raises target's stats
+6,6,Verursacht Schaden; Senkt die Statuswerte des Ziels
 6,9,Inflicts damage; lowers target's stats
+7,6,Verursacht Schaden; Erhöht die Statuswerte des Anwenders
 7,9,Inflicts damage; raises user's stats
+8,6,Verursacht Schaden; Absorbiert verursachten Schaden und heilt den Anwender
 8,9,Inflicts damage; absorbs damage done to heal the user
+9,6,K.O.-Treffer
 9,9,One-hit KO
+10,6,Betrifft das ganze Schlachtfeld
 10,9,Effect on the whole field
+11,6,Betrifft eine Seite des Schlachtfeldes
 11,9,Effect on one side of the field
+12,6,Zwingt das Ziel zum Auswechseln
 12,9,Forces target to switch out
+13,6,Einzigartiger Effekt
 13,9,Unique effect
